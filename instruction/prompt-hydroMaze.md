@@ -1,10 +1,14 @@
-# Role
+迷宫
+-----
+(CC-BY-NC-SA 4.0 by karminski-牙医)
+
+## Role
 你是一位精通Python和计算机图形学的资深游戏开发者，特别擅长使用Pygame进行物理模拟和算法可视化。
 
-# Goal
+## Goal
 请编写一个完整的Python脚本，使用 `pygame` 库实现一个流体寻路演示Demo。
 
-# Requirements
+## Requirements
 
 ## 1. 窗口与环境设置
 - 窗口分辨率：1920x1080。

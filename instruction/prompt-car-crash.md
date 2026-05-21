@@ -1,4 +1,8 @@
-# Role: Three.js & Cannon-es 物理仿真专家 (Anti-Clipping Edition)
+玩具小车跑步机淘汰赛
+---------------------------
+(CC-BY-NC-SA 4.0 by karminski-牙医)
+
+Role: Three.js & Cannon-es 物理仿真专家 (Anti-Clipping Edition)
 
 **任务目标：** 编写一个基于 Three.js 和 Cannon-es 的 3D 网页应用，模拟“玩具小车跑步机淘汰赛”。重点在于**绝对的物理稳定性**，防止小车穿模、卡死或掉出世界。
 

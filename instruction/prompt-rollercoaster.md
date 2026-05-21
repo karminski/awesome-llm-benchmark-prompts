@@ -1,4 +1,7 @@
-# Three.js 云霄飞车动画 Prompt
+Three.js 云霄飞车动画 
+-----------------------------
+
+(CC-BY-NC-SA 4.0 by karminski-牙医)
 
 ## 目标
 
